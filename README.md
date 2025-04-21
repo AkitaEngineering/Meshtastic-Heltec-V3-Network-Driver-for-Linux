@@ -64,7 +64,7 @@ Please see the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to 
 
 ## License
 
-(See `LICENSE` file)
+GNU General Public License v3.0 (See `LICENSE` file)
 
 ## Contact
 
