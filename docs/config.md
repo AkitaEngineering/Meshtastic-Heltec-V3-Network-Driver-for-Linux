@@ -25,7 +25,6 @@ The `config.ini` file in the `daemon/` directory controls the behavior of the Me
   my_other_node = 10.0.0.2
   another_node = 10.0.0.3
   ```
-**`docs/protocol.md`:** (Basic notes on the conceptual protocol)
 
 # Meshtastic Protocol Implementation Notes
 
