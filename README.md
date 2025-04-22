@@ -2,7 +2,6 @@
 
 [![WIP - Conceptual Project](https://img.shields.io/badge/Status-WIP%20Conceptual-orange.svg)](https://github.com/akita-engineering/Meshtastic-Heltec-V3-Network-Driver-for-Linux)
 [![Akita Engineering](https://img.shields.io/badge/Organization-Akita%20Engineering-blue.svg)](https://www.akitaengineering.com)
-[![GitHub Contributors](https://img.shields.io/github/contributors/akita-engineering/Meshtastic-Heltec-V3-Network-Driver-for-Linux)](https://github.com/akita-engineering/Meshtastic-Heltec-V3-Network-Driver-for-Linux/graphs/contributors)
 
 This project, initiated by Akita Engineering (www.akitaengineering.com), is a **Work In Progress (WIP) and conceptual in nature**. It aims to create a Linux driver that allows a Heltec V3 device running Meshtastic firmware to act as a network interface. This would enable Linux applications to communicate over the Meshtastic network using standard network protocols (via a TUN virtual interface).
 
